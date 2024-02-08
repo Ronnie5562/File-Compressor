@@ -20,3 +20,5 @@ python program.py
 # Group Members
 
 1. ## [`Abimbola Ronald`](https://www.linkedin.com/in/abimbola-ronald-977299224/)
+2. ## [`Joshua Alana`](https://www.linkedin.com/in/joshua-alana-5760b3196)
+3. ## [`Justice Chukwuonye`](https://www.linkedin.com/in/justice-chukwuonye-a93372279)
